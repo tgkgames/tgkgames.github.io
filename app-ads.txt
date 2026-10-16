@@ -4,6 +4,9 @@ OWNERDOMAIN=tgkgames.github.io
 # Google AdMob
 google.com, pub-7332275866778743, DIRECT, f08c47fec0942fa0
 
+# Unity Ads
+unity.com, 6872884265399, DIRECT, 96cabb5fbdde37a7
+
 # ironSource Ads (LevelPlay)
 ironsrc.com, 689497, DIRECT
 media.net, 8CUH2L333, RESELLER
