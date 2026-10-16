@@ -4,7 +4,8 @@ OWNERDOMAIN=tgkgames.github.io
 # Google AdMob
 google.com, pub-7332275866778743, DIRECT, f08c47fec0942fa0
 
-# ironSource Ads (LevelPlay): the DIRECT line waits for the account ID
+# ironSource Ads (LevelPlay)
+ironsrc.com, 689497, DIRECT
 media.net, 8CUH2L333, RESELLER
 sharethrough.com, 3817, RESELLER, d53b998a7bd4ecd2
 playdigo.com, 1956, RESELLER
